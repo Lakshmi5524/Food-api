@@ -132,10 +132,9 @@ const RecipeImage = styled.img`
   margin: 15px;
 `
 const Placeholder = styled.img`
-  width: 80%;
-  height: 100vhpx;
-  margin: 200px;
-  margin-bottom: 200px;
+  width: 50%;
+  height: 50vh;
+  margin: 20px;
 `
 const SearchInput = styled.input`
   color: black;
